@@ -98,7 +98,7 @@ For changes beyond simple text and CSS tweaks,
 we recommend running the site locally to
 enable an edit-refresh cycle.
 
-### Get the prerequisites
+### Get the prerequisites done 
 
 Install the following tools to build and develop the site:
 
